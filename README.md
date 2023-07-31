@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Naail Chowdhury</h1>
-<h3 align="center">Just having fun</h3>
+[![MasterHead](https://cdn.wallpapersafari.com/82/97/mg0byD.jpg)](https://naailrch.io)
+<h1 align="center">Hi 👋🏽, I'm Naail Chowdhury</h1>
+<h3 align="center">Just trying to make it</h3>
 
-- 🔭 I’m currently working on **A basketball data project with a focus on my favorite team, the Houston Rockets.**
+- 🔭 I’m currently working on **a basketball data project with a focus on my favorite team, the Houston Rockets.**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **anything and everything that has to do with Data Science**
 
 - 📫 How to reach me **naailrch@gmail.com**
 
