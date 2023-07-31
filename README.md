@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.wallpapersafari.com/82/97/mg0byD.jpg)](https://naailrch.io)
 <h1 align="center">Hi 👋🏽, I'm Naail Chowdhury</h1>
 <h3 align="center">Just trying to make it</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/aa/d4/b4/aad4b4ff5ae0413ec69ebf6af0516e2e.gif">
+<img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/aa/d4/b4/aad4b4ff5ae0413ec69ebf6af0516e2e.gif">
 
 
 - 🔭 I’m currently working on **a basketball data project with a focus on my favorite team, the Houston Rockets.**
