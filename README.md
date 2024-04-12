@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **a basketball data project with a focus on my favorite team, the Houston Rockets.**
 
-- 🌱 I’m currently learning **anything and everything that has to do with Data Science**
+- 🌱 Presently learning **anything and everything that has to do with Bioinformatics, Biostatistics, and Machine Learning**
 
-- 📫 How to reach me **naailrch@gmail.com**
+- 📫 How to reach me **naailcho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
