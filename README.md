@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/aa/d4/b4/aad4b4ff5ae0413ec69ebf6af0516e2e.gif">
 
 
-- 🔭 I’m currently working on **a basketball data project with a focus on my favorite team, the Houston Rockets.**
+- I’m currently working on **a basketball data project with a focus on my favorite team, the Houston Rockets.**
 
-- 🌱 Presently learning **anything and everything that has to do with Bioinformatics, Biostatistics, and Machine Learning**
+- Presently learning **anything and everything that has to do with Bioinformatics, Biostatistics, and Machine Learning**
 
 - 📫 How to reach me **naailcho@gmail.com**
 
